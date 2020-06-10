@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">My UI Design</string>
+    <string name="hello">Hello</string>
+    <string name="username">Reno</string>
+    <string name="search_elements">Search…</string>
+    <string name="invitation">Invitation</string>
+    <string name="catering">Catering</string>
+    <string name="event_organizer">EO Wedding</string>
+    <string name="photography">Photography</string>
+    <string name="best_event">BEST EVENT</string>
+    <string name="home">Home</string>
+    <string name="favorite">Favorite</string>
+    <string name="profile">Profile</string>
+    <string name="settings">Settings</string>
+</resources>
